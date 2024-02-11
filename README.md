@@ -1,46 +1,37 @@
-# Getting Started with Create React App
+<p align="center">
+  <img src="https://github.com/devpedromgoncalves/letmeask/assets/97984504/ec3fcb14-ad83-455f-ae49-63e5822ec508">
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img src="https://github.com/devpedromgoncalves/letmeask/assets/97984504/b515a45c-4adb-4cf8-a2b0-9bf1c81e6fe8" style="max-width: 100%">
+</p>
 
-## Available Scripts
+<h1>💻 Projeto</h1>
+Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática. <br />
+Este foi um projeto desenvolvido por mim, durante a Next Level Week Together da RocketSeat.
 
-In the project directory, you can run:
+<h1>🧪 Tecnologias</h1>
+Esse projeto foi desenvolvido com as seguintes tecnologias:<br />
 
-### `npm start`
+React<br />
+Firebase<br />
+TypeScript<br />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<h1>🚀 Como executar</h1>
+Faça clone do projeto e acesse a pasta do mesmo.<br />
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+$ git clone https://github.com/devpedromgoncalves/letmeask.git<br />
+$ cd letmeask<br />
 
-### `npm test`
+Para iniciá-lo, siga os passos abaixo:<br />
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h3>Instalar as dependências</h3>
+$ npm i
 
-### `npm run build`
+<h3>Iniciar o projeto</h3>
+$ npm run start <br/>
+O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<br />
+<br />
+<strong>NOTA:</strong> que será necessário criar uma conta no Firebase e um projeto para disponibilizar um Realtime Database.
